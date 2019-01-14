@@ -1,0 +1,26 @@
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+E:\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.pdb
+C:\Users\aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\MODEL\obj\Debug\MODEL.pdb

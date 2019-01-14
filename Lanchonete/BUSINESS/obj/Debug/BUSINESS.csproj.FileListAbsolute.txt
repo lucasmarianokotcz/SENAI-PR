@@ -1,0 +1,24 @@
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\bin\Debug\BUSINESS.dll
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\bin\Debug\BUSINESS.pdb
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\bin\Debug\MODEL.dll
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\bin\Debug\MODEL.pdb
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.dll
+C:\Users\Lucas\source\repos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\bin\Debug\BUSINESS.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\bin\Debug\BUSINESS.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\bin\Debug\DATAACCESS.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\bin\Debug\MODEL.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\bin\Debug\DATAACCESS.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\bin\Debug\MODEL.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.csprojAssemblyReference.cache
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.csproj.CopyComplete
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\BUSINESS\obj\Debug\BUSINESS.pdb

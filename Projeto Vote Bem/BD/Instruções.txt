@@ -1,0 +1,3 @@
+- Para rodar o Script do Banco de dados, abra o arquivo "Vote Bem Físico", se conecte e dê F5.
+- Em seguida, vá até  "--Cadastrando questões no banco" (estará comentado - em verde).
+- Selecione os Inserts até a última questão e dê F5.

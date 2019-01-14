@@ -1,0 +1,38 @@
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.frmPedido.resources
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\VIEW.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.pdb
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\VIEW.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\BUSINESS.dll
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\MODEL.dll
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\BUSINESS.pdb
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\MODEL.pdb
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\VIEW.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.frmLicenca.resources
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\BUSINESS.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\MODEL.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\DATAACCESS.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\BUSINESS.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\MODEL.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\DATAACCESS.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\bin\Debug\DATAACCESS.dll.config
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\VIEW.csprojAssemblyReference.cache
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.frmLicenca.resources
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.frmPedido.resources
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\VIEW.csproj.GenerateResource.cache
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\VIEW.csproj.CopyComplete
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.pdb

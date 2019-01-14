@@ -1,0 +1,95 @@
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe.config
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmPaginaInicial.resources
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.GenerateResource.cache
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.exe
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmResultado.resources
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CopyComplete
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe.config
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll.config
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csprojAssemblyReference.cache
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmPaginaInicial.resources
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmResultado.resources
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.Properties.Resources.resources
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.GenerateResource.cache
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CopyComplete
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.exe
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe.config
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll.config
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csprojAssemblyReference.cache
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmPaginaInicial.resources
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmResultado.resources
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.Properties.Resources.resources
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.GenerateResource.cache
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CopyComplete
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.exe
+E:\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe.config
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll.config
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csprojAssemblyReference.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmPaginaInicial.resources
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmResultado.resources
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.Properties.Resources.resources
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.GenerateResource.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CopyComplete
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.exe
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe.config
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.exe
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\VIEW.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\BUSINESS.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\MODEL.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmPaginaInicial.resources
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.frmResultado.resources
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.GenerateResource.cache
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.csproj.CopyComplete
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.exe
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\VIEW\obj\Debug\VIEW.pdb

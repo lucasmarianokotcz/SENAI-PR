@@ -1,0 +1,34 @@
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+E:\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csproj.CoreCompileInputs.cache
+E:\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csprojAssemblyReference.cache
+C:\Users\aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csprojAssemblyReference.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\DATAACCESS\obj\Debug\DATAACCESS.csprojAssemblyReference.cache

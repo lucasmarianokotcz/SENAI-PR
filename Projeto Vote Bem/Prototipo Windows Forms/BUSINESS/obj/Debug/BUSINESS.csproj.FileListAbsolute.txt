@@ -1,0 +1,60 @@
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.dll
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.pdb
+C:\Users\Lucas\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CopyComplete
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.pdb
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csprojAssemblyReference.cache
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CopyComplete
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.dll
+C:\Users\Aluno\OneDrive\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll.config
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.pdb
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csprojAssemblyReference.cache
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CoreCompileInputs.cache
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CopyComplete
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.dll
+E:\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.pdb
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csprojAssemblyReference.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CopyComplete
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.dll
+C:\Users\Aluno\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\BUSINESS.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\bin\Debug\MODEL.pdb
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.csproj.CopyComplete
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.dll
+C:\Users\Lucas\OneDrive\TDS II\Projeto Vote Bem\Prototipo Windows Forms\BUSINESS\obj\Debug\BUSINESS.pdb

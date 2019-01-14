@@ -1,0 +1,7 @@
+>>> SISTEMA DE CONTROLE DE IMÓVEIS DOS CLIENTES DE UMA IMOBILIÁRIA <<<
+
+ENTIDADES: CLIENTE, IMOVEL, ADMIN
+
+Atributos do Admin: Login, Senha.
+Atributos do Cliente: Id_cliente, Nome, Email, Endereco, Complemento, Cidade, Estado, Telefone, Data_nasc.
+Atributos do Imovel: Endereco, Cidade, Estado, Tipo, Valor, Data_aquisicao, Id_cliente.

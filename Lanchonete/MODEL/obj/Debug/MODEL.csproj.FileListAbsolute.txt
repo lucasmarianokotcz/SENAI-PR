@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\Lanchonete\MODEL\bin\Debug\MODEL.dll
+C:\Users\Lucas\source\repos\Lanchonete\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Lucas\source\repos\Lanchonete\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Lanchonete\MODEL\obj\Debug\MODEL.dll
+C:\Users\Lucas\source\repos\Lanchonete\MODEL\obj\Debug\MODEL.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\MODEL\bin\Debug\MODEL.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\MODEL\bin\Debug\MODEL.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\MODEL\obj\Debug\MODEL.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\MODEL\obj\Debug\MODEL.pdb

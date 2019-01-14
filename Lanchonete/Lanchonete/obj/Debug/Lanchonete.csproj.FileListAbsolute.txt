@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.frmPedido.resources
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.pdb
+C:\Users\Lucas\source\repos\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csprojAssemblyReference.cache

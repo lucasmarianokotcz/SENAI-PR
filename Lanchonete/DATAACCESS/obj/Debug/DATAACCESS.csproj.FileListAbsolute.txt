@@ -1,0 +1,12 @@
+C:\Users\Lucas\source\repos\Lanchonete\DATAACCESS\obj\Debug\DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Lanchonete\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\Lucas\source\repos\Lanchonete\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Users\Lucas\source\repos\Lanchonete\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Users\Lucas\source\repos\Lanchonete\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Users\Lucas\source\repos\Lanchonete\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\DATAACCESS\obj\Debug\DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Users\aluno\OneDrive\TDS II\Programação de aplicativos\Lanchonete\DATAACCESS\obj\Debug\DATAACCESS.pdb
