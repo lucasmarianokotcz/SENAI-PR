@@ -1,0 +1,84 @@
+﻿@model Avaliacao1LucasMariano.Models.Funcionario
+
+@{
+    ViewBag.Title = "Excluir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="bordaDelete">Excluir funcionário</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        @*<dt>
+                @Html.DisplayNameFor(model => model.IdFunc)
+            </dt>*@
+
+        @*<dd>
+                @Html.DisplayFor(model => model.IdFunc)
+            </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Setor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Setor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Salario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataAdmissao)
+        </dt>
+
+        <dd>
+            @Model.DataAdmissao.ToShortDateString()
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Filhos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Filhos)
+        </dd>
+
+    </dl>
+
+    <hr />
+    <h4>Você tem certeza que deseja excluir este funcionário?</h4>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(model => model.IdFunc)
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-danger" />
+            @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-secondary" })
+        </div>
+    }
+</div>
+
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("form").submit(function () {
+            alert("Funcionário excluído com sucesso!");
+        });
+    });
+</script>

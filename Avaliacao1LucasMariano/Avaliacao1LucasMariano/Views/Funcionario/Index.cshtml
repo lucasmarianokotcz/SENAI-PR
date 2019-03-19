@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Avaliacao1LucasMariano.Models.Funcionario>
+
+@{
+    ViewBag.Title = "Lista";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="bordaIndex">Lista de funcionários</h2>
+<br />
+
+<form class="form-inline">
+    <b class="mr-3">Pesquisar por nome:</b> @Html.TextBox("Pesquisa", null, new { @class = "form-control mr-2", @style = "min-width: 300px" }) <input type="submit" value="OK" class="btn btn-outline-primary" />
+</form>
+<br />
+
+<form class="form-inline">
+    <b class="mr-3">Ordenar por:</b> @Html.DropDownList("Filtro", ViewBag.Filtro as SelectList, new { @class = "form-control mr-2" })  <input type="submit" value="OK" class="btn btn-outline-primary" />
+</form>
+<br />
+
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.IdFunc)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Setor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataAdmissao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Filhos)
+            </th>
+            <th>
+                Opções
+            </th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.IdFunc)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Setor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salario)
+            </td>
+            <td>
+                @item.DataAdmissao.ToShortDateString()
+                @*@Html.DisplayFor(modelItem => item.DataAdmissao)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Filhos)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.IdFunc }, new { @class = "btn btn-warning btn-sm" })
+                @Html.ActionLink("Detalhes", "Details", new { id = item.IdFunc }, new { @class = "btn btn-info btn-sm" })
+                @Html.ActionLink("Excluir", "Delete", new { id = item.IdFunc }, new { @class = "btn btn-danger btn-sm" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<p>
+    @Html.ActionLink("Adicionar funcionário", "Create", null, new { @class = "btn btn-primary" })
+</p>

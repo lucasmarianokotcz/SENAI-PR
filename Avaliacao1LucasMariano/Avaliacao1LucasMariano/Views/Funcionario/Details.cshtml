@@ -1,0 +1,66 @@
+﻿@model Avaliacao1LucasMariano.Models.Funcionario
+
+@{
+    ViewBag.Title = "Detalhes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="bordaDetails">Detalhes do funcionário</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        @*<dt>
+            @Html.DisplayNameFor(model => model.IdFunc)
+        </dt>*@
+
+        @*<dd>
+            @Html.DisplayFor(model => model.IdFunc)
+        </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Setor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Setor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Salario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salario)
+        </dd>
+
+        <dt>            
+            @Html.DisplayNameFor(model => model.DataAdmissao)
+        </dt>
+
+        <dd>
+            @Model.DataAdmissao.ToShortDateString()
+            @*@Html.DisplayFor(model => model.DataAdmissao)*@
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Filhos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Filhos)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.IdFunc }, new { @class = "btn btn-warning" })
+    @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-secondary" })
+</p>

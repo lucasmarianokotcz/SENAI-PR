@@ -1,0 +1,118 @@
+﻿@model Avaliacao1LucasMariano.Models.Funcionario
+
+@{
+    ViewBag.Title = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="bordaEdit">Editar funcionário</h2>
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { @onsubmit = "return validaForm()", @name = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.IdFunc)
+
+        <div class="form-group">
+            <strong>@Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })</strong>
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control", @id = "nome" } })
+                @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <strong>@Html.LabelFor(model => model.Setor, htmlAttributes: new { @class = "control-label col-md-2" })</strong>
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Setor, new { htmlAttributes = new { @class = "form-control", @id = "setor" } })
+                @Html.ValidationMessageFor(model => model.Setor, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <strong>@Html.LabelFor(model => model.Salario, htmlAttributes: new { @class = "control-label col-md-2" })</strong>
+            <div class="col-md-2">
+                @Html.EditorFor(model => model.Salario, new { htmlAttributes = new { @class = "form-control", @id = "salario" } })
+            </div>
+            <div class="col-md-4">
+                @Html.ValidationMessageFor(model => model.Salario, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <strong>@Html.LabelFor(model => model.DataAdmissao, htmlAttributes: new { @class = "control-label col-md-2" })</strong>
+            <div class="col-md-3">
+                @Html.EditorFor(model => model.DataAdmissao, new { htmlAttributes = new { @class = "form-control", @id = "dataAdmissao" } })
+            </div>
+            <div class="col-md-4">
+                @Html.ValidationMessageFor(model => model.DataAdmissao, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <strong>@Html.LabelFor(model => model.Filhos, htmlAttributes: new { @class = "control-label col-md-2" })</strong>
+            <div class="col-md-1">
+                @Html.EditorFor(model => model.Filhos, new { htmlAttributes = new { @class = "form-control", @id = "filhos", min = 0, onkeypress = "return isNumberKey(event)" } })
+            </div>
+            <div class="col-md-4">
+                @Html.ValidationMessageFor(model => model.Filhos, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Salvar alterações" class="btn btn-success" />
+                @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-secondary" })
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+
+</div>
+
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery.validate.custom.pt-br.js"></script>
+<script src="~/Scripts/jquery.maskMoney.js"></script>
+
+<script type="text/javascript">
+    $(function () {
+        $("#salario").maskMoney();
+    })
+</script>
+
+<script type="text/javascript">
+    function isNumberKey(evt) {
+        var charCode = (evt.which) ? evt.which : event.keyCode
+        if (charCode > 31 && (charCode < 48 || charCode > 57))
+            return false;
+
+        return true;
+    }
+</script>
+
+<script>
+    $(document).ready(function () {
+        $("form").submit(function validaForm() {
+
+            var nome = document.forms["form"]["nome"].value;
+            var setor = document.forms["form"]["setor"].value;
+            var salario = document.forms["form"]["salario"].value;
+            var dataAdmissao = document.forms["form"]["dataAdmissao"].value;
+            var filhos = document.forms["form"]["filhos"].value;
+
+            if (!(nome == "" || setor == "" || salario == "" || salario == "" || dataAdmissao == "" || filhos == "" || filhos > 10)) {
+                alert("Funcionário alterado com sucesso!");
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    });
+</script>

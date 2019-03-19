@@ -1,0 +1,65 @@
+﻿body {
+    margin-top: 35px;
+}
+
+.table th{
+    text-align: center;
+}
+
+.bordaIndex {
+    background: #dee2e6;
+    border-radius: 7px;
+    border: 1px solid #dee2e6;
+    padding: 15px;
+}
+
+.bordaCreate {
+    color: white;
+    background: #007bff;
+    border-radius: 7px;
+    border: 1px solid #007bff;
+    padding: 15px;
+}
+
+.bordaEdit {
+    background: #ffc107;
+    border-radius: 7px;
+    border: 1px solid #ffc107;
+    padding: 15px;
+}
+
+.bordaDetails {
+    color: white;
+    background: #17a2b8;
+    border-radius: 7px;
+    border: 1px solid #17a2b8;
+    padding: 15px;
+}
+
+.bordaDelete {
+    color: white;
+    background: #dc3545;
+    border-radius: 7px;
+    border: 1px solid #dc3545;
+    padding: 15px;
+}
+
+.btnPesquisar {
+    background-color: #676981;
+    -moz-border-radius: 17px;
+    -webkit-border-radius: 17px;
+    border-radius: 17px;
+    border: 1px solid #676981;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 7px 10px;
+    text-decoration: none;
+}
+
+    .btnPesquisar:hover {
+        color: #676981;
+        background-color: #ffffff;
+    }

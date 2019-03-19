@@ -1,0 +1,332 @@
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.dll.config
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.pdb
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.exe
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.exe.config
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.rsp
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.exe
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.exe.config
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.rsp
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Console.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Claims.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.exe
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.exe.config
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.rsp
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Helpers.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Mvc.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Razor.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Webpages.Deployment.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Webpages.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Webpages.Razor.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Razor.xml
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Webpages.xml
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Webpages.Deployment.xml
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Webpages.Razor.xml
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Helpers.xml
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Mvc.xml
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csproj.CopyComplete
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.dll
+C:\Users\aluno\source\repos\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.pdb
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.dll.config
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.pdb
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.exe
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.exe.config
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.rsp
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.exe
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.exe.config
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.rsp
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Console.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Net.Http.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.exe
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.exe.config
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.rsp
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Helpers.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Mvc.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Optimization.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Razor.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\WebGrease.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.pdb
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Helpers.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Mvc.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Optimization.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Razor.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csproj.CopyComplete
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.dll
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.pdb
+C:\Users\Lucas\OneDrive\TDS III\Desenvolvimento de sistemas\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.dll.config
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.pdb
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.exe
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.exe.config
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.rsp
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.exe
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.exe.config
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.rsp
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.AppContext.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Console.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Net.Http.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.exe
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.exe.config
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.rsp
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Antlr3.Runtime.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Optimization.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Razor.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\WebGrease.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Antlr3.Runtime.pdb
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.pdb
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Optimization.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Razor.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csproj.CopyComplete
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.dll
+C:\Users\Aluno\Downloads\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.pdb
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.dll.config
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Avaliacao1LucasMariano.pdb
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.exe
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.exe.config
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csc.rsp
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.exe
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.exe.config
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\csi.rsp
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Console.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Net.Http.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.exe
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.exe.config
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\vbc.rsp
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Helpers.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Mvc.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Optimization.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Razor.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\WebGrease.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.pdb
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Helpers.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Mvc.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Optimization.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.Razor.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.dll
+C:\Users\Lucas\Desktop\Avaliacao1LucasMariano\Avaliacao1LucasMariano\obj\Debug\Avaliacao1LucasMariano.pdb
