@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Página Inicial";
+}
+
+<div class="row" style="margin: auto">
+    <a style="text-decoration:none" href="https://localhost:44370">
+        <div class="titulo">
+            Gerador de Provas<br />
+            Online
+        </div>
+    </a>
+
+    <div style="margin-left: auto">
+        <a style="text-decoration:none" href="https://localhost:44370/Home/Login">
+            <div class="login">
+                Login
+            </div>
+        </a>
+
+        <a style="text-decoration:none" href="https://localhost:44370/Home/Cadastro">
+            <div class="cadastro" style="margin-top: 36px">
+                Cadastro
+            </div>
+        </a>        
+    </div>
+</div>
+
+<p>@ViewBag.Mensagem <b>@User.Identity.Name</b></p>
